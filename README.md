@@ -31,12 +31,12 @@ npm install layer-swiper
   Nowadays,it can't supprt under ie 10,and support other brower,
   it could support mobile
 ## Usage
-  a_pos   default   3    >>>// The position of the first cart  
-  b_pos  default   28    ###//The position of the second cart   
-  c_pos   default   53  ###//The position of the third cart  
-  cur_rate  default  1   ###//The rate the distance that you finger or mouse move devide the distance that the cart move   
-  scale   default    1.25  ###//The times that middle cart scale   
-  opacity   default  0.7  ###//set the side cart opacity   
-  noreact   default   1  ###// when we scroll down,we could free it casually. so you can controll the react by set the value.the more value you set, you can't free it more easily  
-  platform  default pc  ###//which platform you want use it, or 'mobile'  
-  top   default   25   ###//the distance between the side cart and top
+  a_pos   default   3      // The position of the first cart  
+  b_pos  default   28      //The position of the second cart   
+  c_pos   default   53    //The position of the third cart  
+  cur_rate  default  1     //The rate the distance that you finger or mouse move devide the distance that the cart move   
+  scale   default    1.25     //The times that middle cart scale   
+  opacity   default  0.7    //set the side cart opacity   
+  noreact   default   1    // when we scroll down,we could free it casually. so you can controll the react by set the value.the more value you set, you can't free it more easily  
+  platform  default pc    //which platform you want use it, or 'mobile'  
+  top   default   25     //the distance between the side cart and top
