@@ -31,7 +31,7 @@ npm install layer-swiper
   Nowadays,it can't supprt under ie 10,and support other brower,
   it could support mobile
 ## Usage
-  a_pos   default   3    ### // The position of the first cart  
+  a_pos   default   3    >>>// The position of the first cart  
   b_pos  default   28    ###//The position of the second cart   
   c_pos   default   53  ###//The position of the third cart  
   cur_rate  default  1   ###//The rate the distance that you finger or mouse move devide the distance that the cart move   
