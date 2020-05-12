@@ -14,11 +14,11 @@ npm install layer-swiper
 ## Getting started
   you can use it by follow and show your imgs or carts in softly,and you can write anything in div or li.
   ```
-   <Layerswiepr>
+   <LayerSwiepr>
      <div>1</div>
      <div>2</div>
      <div>3</div>
-   </Layerswiper>
+   </LayerSwiper>
    <script>
     import LayerSwiper from 'layer-swiper'
    </script>
