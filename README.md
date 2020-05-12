@@ -19,6 +19,8 @@ npm install layer-swiper
      <div>2</div>
      <div>3</div>
    </LayerSwiper>
+
+   
    <script>
     import LayerSwiper from 'layer-swiper'
    </script>

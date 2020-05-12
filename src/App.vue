@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <LayerSwiper class="layer">
+    <LayerSwiper>
     </LayerSwiper>
   </div>
 </template>
@@ -19,6 +19,6 @@ export default {
 }
 </script>
 
-<style lang="scss">
+<style>
 
 </style>

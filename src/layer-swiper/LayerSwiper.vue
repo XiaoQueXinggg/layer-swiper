@@ -138,10 +138,8 @@ export default {
 			this.scrollBox.children[this.b]['style']['z-index']='2';
 			this.scrollBox.children[this.c]['style']['left']=this.b_pos+'%';
 			this.scrollBox.children[this.c]['style']['opacity']=1;
-			this.scrollBox.children[this.c].children[0]['style']['opacity']=1;
 			this.scrollBox.children[this.c]['style']['z-index']='3';
 			this.scrollBox.children[this.c]['style']['transform']='scale('+this.scale+')';
-      this.scrollBox.children[this.c].children[0]['style']['opacity']=1;
 			if(0.25*this.rate>0.04){
 				this.x=this.a;
 				this.y=this.b;
