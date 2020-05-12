@@ -25,3 +25,5 @@ npm install layer-swiper
     import LayerSwiper from 'layer-swiper'
    </script>
    ```
+## what is you can achieve as follows;
+[image](https://github.com/ZhengYaWei1992/ZWProgressView/blob/master/Untitled3.gif)
