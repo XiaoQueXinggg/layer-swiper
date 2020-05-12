@@ -7,12 +7,7 @@
 ``` bash
 # install dependencies
 npm install layer-swiper
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## What is layer-swiper?
+  layer-swiper is plugin by which three cart override can scroll by finger or mouse ,when you let it go and three cart will go where they should go .how you use it? you just put three dom in components and it will works.what's more,there is lots of property that you can custom it byself.
