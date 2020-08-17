@@ -1,6 +1,6 @@
 # layer-swiper
 
-> cart can swiper in layer
+> 网易云卡片覆盖轮播插件cart can swiper in layer
 
 ## install
 
